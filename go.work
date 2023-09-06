@@ -1,3 +1,6 @@
 go 1.21.0
 
-use ./problems/lc0217
+use (
+	./problems/lc0217
+	./problems/lc0242
+)
