@@ -2,6 +2,7 @@ go 1.21.0
 
 use (
 	./problems/lc0001
+	./problems/lc0121
 	./problems/lc0217
 	./problems/lc0242
 )
