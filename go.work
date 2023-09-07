@@ -5,6 +5,7 @@ use (
 	./problems/lc0020
 	./problems/lc0121
 	./problems/lc0128
+	./problems/lc0150
 	./problems/lc0217
 	./problems/lc0242
 )
