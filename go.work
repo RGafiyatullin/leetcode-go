@@ -9,4 +9,5 @@ use (
 	./problems/lc0150
 	./problems/lc0217
 	./problems/lc0242
+	./problems/lc0704
 )
